@@ -1,0 +1,29 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+
+Library/
+Temp/
+Logs/
+Obj/
+MemoryCaptures/
+
+# Ignore the editor settings
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# ビルド結果
+Build/
+Builds/

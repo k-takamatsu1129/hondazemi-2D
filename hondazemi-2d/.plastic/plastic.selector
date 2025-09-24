@@ -1,0 +1,4 @@
+repository "hondazemi-2d/hondazemi-2d@15669594196378@cloud"
+  path "/"
+    br "/main"
+    co "/main"
